@@ -17,10 +17,10 @@ def lucas_lehmer_test(p: int) -> bool:
     """
     >>> lucas_lehmer_test(p=7)
     True
-    
+
     >>> lucas_lehmer_test(p=11)
     False
-    
+
     # M_11 = 2^11 - 1 = 2047 = 23 * 89
     """
 

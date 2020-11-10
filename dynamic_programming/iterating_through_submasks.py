@@ -33,7 +33,7 @@ def list_of_submasks(mask: int) -> List[int]:
     Traceback (most recent call last):
         ...
     AssertionError: mask needs to be positive integer, your input 0
-    
+
     """
 
     fmt = "mask needs to be positive integer, your input {}"

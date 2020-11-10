@@ -11,7 +11,7 @@ def palindromic_string(input_string):
         positions are actual input characters.
     2. for each character in new_string it find corresponding length and store the length
         and l,r to store previously calculated info.(please look the explanation for details)
-        
+
     3. return corresponding output_string by removing all "|"
     """
     max_length = 0
